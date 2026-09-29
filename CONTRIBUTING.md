@@ -1,7 +1,7 @@
 # Contributing
 
 These are single-maintainer repositories, so this is short. It applies to every
-repository under [dhtfish988](https://github.com/dhtfish988) that does not have its
+repository under [dhtfish-98](https://github.com/dhtfish-98) that does not have its
 own `CONTRIBUTING.md`.
 
 ## The one rule that matters

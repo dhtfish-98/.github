@@ -1,6 +1,6 @@
 # .github
 
-Account-level defaults for [dhtfish988](https://github.com/dhtfish988)'s repositories.
+Account-level defaults for [dhtfish-98](https://github.com/dhtfish-98)'s repositories.
 
 GitHub uses the community health files in this repository for any repository of this
 account that does not define its own: the contributing guide, the pull request
