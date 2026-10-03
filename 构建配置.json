@@ -1,0 +1,13 @@
+{
+  "schema": "project-build-layout.v1",
+  "project": ".github",
+  "author": "dhtfish98",
+  "kind": "manual",
+  "base_public_commit": "10e59ad9a2ce518acfb347648711f5701d564316",
+  "restored_inputs": [],
+  "platform_entries": [
+    "CONTRIBUTING.md",
+    "PULL_REQUEST_TEMPLATE.md",
+    "README.md"
+  ]
+}
